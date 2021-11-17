@@ -1,0 +1,12 @@
+{
+  "name": "video-stream",
+  "version": "1.0.0",
+  "description": "Video Streamer",
+  "main": "server.js",
+  "engines": {
+    "node": ">=6.2.0"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  }
+}
